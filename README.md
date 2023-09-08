@@ -8,9 +8,13 @@ This is a simple command-line implementation of the Rock, Paper, Scissors game i
 2. Clone or download the project files.
 3. Open a command prompt or terminal and navigate to the project directory.
 4. Compile the Java source file using the following command:
+   ```bash
    javac RockPaperScissorsGame.java
+   ```
 5. Run the game using the following command:
+    ```bash
    java RockPaperScissorsGame
+   ```
 
 6. Follow the on-screen prompts to enter your choice of rock, paper, or scissors.
 7. The computer will randomly select its choice, and the result will be displayed.
